@@ -90,14 +90,6 @@
       height="40"
     />
   </a>
-     <a href="https://graphql.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
-      alt="graphql"
-      width="40"
-      height="40"
-    />
-  </a>
      <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
